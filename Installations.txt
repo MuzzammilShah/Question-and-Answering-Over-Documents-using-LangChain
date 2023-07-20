@@ -1,0 +1,4 @@
+pip install streamlit
+pip install langchain
+pip install openai
+pip install --upgrade langchain
