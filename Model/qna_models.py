@@ -2,8 +2,8 @@ import streamlit as st
 from transformers import AutoModelForSequenceClassification
 
 import os
-os.environ["OPENAI_API_KEY"] = "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"
-openai_api_key='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'
+os.environ["OPENAI_API_KEY"] = "ADD-YOUR-OPENAI-API-KEY-HERE"
+openai_api_key='ADD-YOUR-OPENAI-API-KEY-HERE'
 
 from langchain.text_splitter import RecursiveCharacterTextSplitter
 from langchain import OpenAI
@@ -20,8 +20,8 @@ from langchain.embeddings.openai import OpenAIEmbeddings
 llm = OpenAI(temperature=0, openai_api_key=openai_api_key)
 
 # Title
-st.title('Welcome to MLQA!')
-st.text("Muhammeds LLM Q&A App")
+st.title('Welcome to HLQA!')
+st.text("Hammedz LLM Q&A App")
 
 # Text input
 model_input = st.text_area("Enter your input text:")
