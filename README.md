@@ -22,6 +22,6 @@ LangChain is a framework for developing applications powered by language models.
 
 
 ## ✍️ Note from the Author:
-I had developed this code as a part of my Internship project in a MNC. The code that you find here was 100% percent done by me. There have been various versions that were released few weeks after I had finished this. You are welcome to refer those too!
+I had developed this code as a part of my Internship project in a MNC. The code that you find here was completely done by me along with ofcourse my old friend, ChatGPT🤖. There have been various versions that were released few weeks after I had finished this. You are welcome to refer those too!
 
 ### Have fun! 👋
